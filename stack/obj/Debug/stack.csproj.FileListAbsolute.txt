@@ -1,0 +1,8 @@
+c:\users\mohammed\documents\visual studio 2012\Projects\stack\stack\bin\Debug\stack.exe
+c:\users\mohammed\documents\visual studio 2012\Projects\stack\stack\bin\Debug\stack.pdb
+c:\users\mohammed\documents\visual studio 2012\Projects\stack\stack\obj\Debug\stack.csprojResolveAssemblyReference.cache
+c:\users\mohammed\documents\visual studio 2012\Projects\stack\stack\obj\Debug\stack.Form1.resources
+c:\users\mohammed\documents\visual studio 2012\Projects\stack\stack\obj\Debug\stack.Properties.Resources.resources
+c:\users\mohammed\documents\visual studio 2012\Projects\stack\stack\obj\Debug\stack.csproj.GenerateResource.Cache
+c:\users\mohammed\documents\visual studio 2012\Projects\stack\stack\obj\Debug\stack.exe
+c:\users\mohammed\documents\visual studio 2012\Projects\stack\stack\obj\Debug\stack.pdb
